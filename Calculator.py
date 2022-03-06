@@ -1,4 +1,3 @@
-from sqlite3 import Row
 from tkinter import *
 root=Tk()
 
